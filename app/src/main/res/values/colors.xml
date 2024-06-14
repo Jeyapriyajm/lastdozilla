@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="Teal">#349892</color>
+    <color name="deap_sea">#022825</color>
+    <color name="red">#FF4949</color>
+    <color name="teal_50">#21349892</color>
+    <color name="green">#003D33</color>
+    <color name="button_green">#004D40</color>
+    <color name="White">#FFFFFF</color>
+    <item name="progressBar" type="id" />
+</resources>

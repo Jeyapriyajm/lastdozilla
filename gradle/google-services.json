@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "773143418066",
+    "firebase_url": "https://lastdozilla-default-rtdb.firebaseio.com",
+    "project_id": "lastdozilla",
+    "storage_bucket": "lastdozilla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773143418066:android:b90e585a5746aec949490b",
+        "android_client_info": {
+          "package_name": "com.example.lastdozilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Fi73Q2Q4_ULJrq2r63k9CgFGpDFzhzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
